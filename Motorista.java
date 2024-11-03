@@ -43,5 +43,3 @@ public class Motorista {
         this.nivelExperiencia = nivelExperiencia;
     }
 }
-
-}
